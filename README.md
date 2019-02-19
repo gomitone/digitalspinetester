@@ -29,8 +29,10 @@ Credits:
 Libraries referenced in the code:
 
 OLED library for Oled
-    Universal 8bit Graphics Library (https://github.com/olikraus/u8g2/)
+Universal 8bit Graphics Library (https://github.com/olikraus/u8g2/)
+
 HX711 library for load cell amplifier
-    Bogde HX711 lib (https://github.com/bogde/HX711)
+Bogde HX711 lib (https://github.com/bogde/HX711)
+
 Button library 
-    Mathertel OneButtonlib (https://github.com/mathertel/OneButton)
+Mathertel OneButtonlib (https://github.com/mathertel/OneButton)
