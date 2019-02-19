@@ -4,6 +4,7 @@ Arrow digital spine tester powered by Arduino Nano compatible board.
 The digital spine tester allows to weigh and calculate shaft spine.
 It uses cheap components and it is made of few lines of code.
 It uses well known libraries that are referenced in the code itself.
+Also listed below.
 
 The schema is in the dwg/dxf file but can be improved as also the overall design could be.
 
@@ -24,4 +25,12 @@ Even if this DIY version is cheap and precise. :-)
 
 Please share your hints and, if possible, your version and improvements.
 
+Credits:
+Libraries referenced in the code:
 
+OLED library for Oled
+    Universal 8bit Graphics Library (https://github.com/olikraus/u8g2/)
+HX711 library for load cell amplifier
+    Bogde HX711 lib (https://github.com/bogde/HX711)
+Button library 
+    Mathertel OneButtonlib (https://github.com/mathertel/OneButton)
